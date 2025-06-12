@@ -3,7 +3,7 @@ import OtherProductsSection from '@/components/OtherProductsSection';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'AI-решения для бизнеса: Умные боты и анализаторы данных',
+  title: 'SuperAiBro | AI-решения для бизнеса: умные боты и анализаторы данных.',
   description: 'Разрабатываем и внедряем AI-ботов и системы анализа данных для автоматизации бизнес-процессов, повышения продаж и оптимизации работы с клиентами.',
 };
 

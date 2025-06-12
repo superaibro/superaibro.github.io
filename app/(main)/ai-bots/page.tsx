@@ -7,7 +7,7 @@ import { CheckCircle2 } from 'lucide-react';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'AI-боты - Разрабатываем и поддерживаем.',
+  title: 'Умные AI-боты | SuperAiBro - AI-решения для бизнеса',
   description: 'Создаем умных AI-ботов для автоматизации вашего бизнеса. Они примут заказы, ответят на вопросы клиентов и интегрируются с CRM. Освободите сотрудников от рутинных задач.',
 };
 
