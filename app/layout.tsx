@@ -5,7 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'AI-решения для бизнеса: Умные боты и анализаторы данных',
+  title: 'SuperAiBro - AI-решения для бизнеса.',
   description: 'Разрабатываем и внедряем AI-ботов и системы анализа данных для автоматизации бизнес-процессов, повышения продаж и оптимизации работы с клиентами.',
 };
 
