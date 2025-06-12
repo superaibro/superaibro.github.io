@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@theme {
+    --color-base: #2C2C2C;
+    --color-light: #D9D9D9;
+    --color-primary: #00CF7C;
+    --color-secondary: #FF3F3F;
+}
+
+@layer base {
+  a {
+    @apply underline decoration-dotted decoration-2 underline-offset-4;
+  }
+}
